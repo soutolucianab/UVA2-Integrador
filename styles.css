@@ -54,7 +54,7 @@ h3{
 
 /* Estilos para la sección de about */
   #about {
-    background-image:url(Images/background3.jpg);
+    background-image: url(Images/background9.jpg);
     padding: 20px;
   }
 
@@ -90,7 +90,7 @@ h3{
 
   /* Estilos para la sección de servicios */
   #services {
-    background-image: url(Images/background4.jpg);
+    background-image: url(Images/background7.jpg);
     padding: 20px;
   }
   .service {
@@ -105,13 +105,15 @@ h3{
 
 /* Estilos para la sección de propuesta comercial */
 #proposal {
-    background-color: #ffde599c;
+
+    background-image: url(Images/background4.jpg);
     padding: 20px;
   }
 
   #proposal h2{
     color: black;
     margin-left: 200px;
+    text-align: center;
   }
   .proposal-content {
     display: flex;
@@ -131,7 +133,7 @@ h3{
 
 /* Estilos para la sección de contacto */
 #contact {
-    background-color:#2980b9; /* Fondo gris más oscuro */
+    background-color:#3498db; /* Fondo gris más oscuro */
     padding: 20px;
     text-align: center; /* Centra el contenido horizontalmente */
   }
